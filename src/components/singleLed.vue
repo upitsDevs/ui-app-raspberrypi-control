@@ -1,5 +1,5 @@
 <template>
-    <button class='btn' v-bind:class="[{ 'btn-success': stat , 'btn-danger': !stat }]" v-on:click='toggleLed'>
+    <button class='btn btn-lg btn-block' v-bind:class="[{ 'btn-active': stat , 'btn-inactive': !stat }]" v-on:click='toggleLed'>
         <i class="fa fa-power-off fa-4x"></i><h3><slot>Placeholder</slot></h3>
     </button>
 </template>

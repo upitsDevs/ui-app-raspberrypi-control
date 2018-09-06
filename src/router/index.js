@@ -5,7 +5,6 @@ import ledControl from '@/components/ledControl'
 
 
 Vue.use(Router)
-
 export default new Router({
   routes: [
     {

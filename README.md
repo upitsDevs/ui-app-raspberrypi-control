@@ -1,6 +1,12 @@
 # raspi
 
-> A Vue.js project
+> A Project To Control Raspberry pi Backend Based on Flask-Api .. 
+
+> Controlling Multi Gpio , Getting State and Gathering Data From Sensors , This is Work On Progress 
+
+> Based On Vue.js
+
+> Developed By : Samir M. Eltabbal
 
 ## Build Setup
 
